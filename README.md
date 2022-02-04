@@ -1,4 +1,4 @@
-# Modal_DB_Peristalsis
+# Modal_DB_Connect
 
 사용한 프레임워크 : bootstrap 4.5, codeigniter3<br>
 사용한 언어 : php7, Ajax<br>
