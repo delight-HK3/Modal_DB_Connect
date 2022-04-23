@@ -1,0 +1,17 @@
+CREATE TABLE db_conn(
+  'no' int(11) NOT NULL,
+  'name' varchar(30) CHARACTER SET utf8 DEFAULT NULL,
+  'content' varchar(100) CHARACTER SET utf8 DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+INSERT INTO db_conn (no, name, writer, writedate) VALUES
+(1, 'test1', '1tester11tester11tester1'),
+(2, 'test2', '2tester22tester22tester2'),
+(3, 'test3', '3tester33tester33tester3'),
+(4, 'test4', '4tester44tester44tester4'),
+(5, 'test5', '5tester55tester55tester5'),
+(6, 'test6', '6tester66tester66tester6'),
+(7, 'test7', '7tester77tester77tester7'),
+(8, 'test8', '8tester88tester88tester8'),
+(9, 'test9', '9tester99tester99tester9'),
+(10, 'test10', '10tester1010tester1010tester10');
