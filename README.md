@@ -12,6 +12,10 @@
 <ul>
   <li>codeIgniter3 에서 Index 죽이기 작업을 하고 진행했습니다. 위의 코드를 실행시키려면 먼저 Index 죽이기 작업을 하셔야 합니다.</li>
    <li><a href="https://gold9ine.tistory.com/entry/CodeIgniter-%EC%BD%94%EB%93%9C%EC%9D%B4%EA%B7%B8%EB%82%98%EC%9D%B4%ED%84%B0-indexphp-%EC%A3%BD%EC%9D%B4%EA%B8%B0-Not-Found-error">index.php remove 방법 블로그 글</a></li>
+  <li>my 폴더는 아래의 이미지처럼 위치 해야 합니다.</li>
+   <kbd>
+    <img src="https://user-images.githubusercontent.com/74585673/153512814-370120a3-735b-4730-869e-a6f7a24387e0.PNG">
+  </kbd>
 </ul>
 <br>
 
