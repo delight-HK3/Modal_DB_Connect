@@ -4,8 +4,9 @@
 >사용한 언어 : php7, css3, javascript, SQL<br>
 >사용한 DB : MariaDB<br>
 >사용한 DBMS : phpMyAdmin<br>
->사용한 서버 : apache server<br>
+>사용한 서버 : Apache Linux server<br>
 >사용한 Tool : Visual Studio Code<br>
+>테스트한 OS : Apache Linux<br>
 <br>
 
 ### 주의사항
